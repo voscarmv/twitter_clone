@@ -1,24 +1,33 @@
-# README
+# Twitter Clone Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> Solution to the [Twitter Clone Tutorial](https://www.theodinproject.com/courses/ruby-on-rails/lessons/authentication) from [the Odin Project](https://www.theodinproject.com/)
 
-Things you may want to cover:
+### Prerequisites
 
-* Ruby version
+Follow the installation instructions [for Ruby](https://www.theodinproject.com/courses/ruby-programming/lessons/installing-ruby-ruby-programming) and [Rails](https://www.theodinproject.com/courses/ruby-on-rails/lessons/your-first-rails-application-ruby-on-rails) from The Odin Project.
 
-* System dependencies
+## Author
 
-* Configuration
+**Oscar Mier**
+- Github: [@voscarmv](https://github.com/voscarmv)
+- Twitter: [@voscarmv](https://twitter.com/voscarmv)
+- Linkedin: [Oscar Mier](https://www.linkedin.com/in/oscar-mier-072984196/) 
 
-* Database creation
+## 🤝 Contributing
 
-* Database initialization
+Contributions, issues and feature requests are welcome!
 
-* How to run the test suite
+Feel free to check the [issues page](../../issues/).
 
-* Services (job queues, cache servers, search engines, etc.)
+## Show your support
 
-* Deployment instructions
+Give a ⭐️ if you like this project!
 
-* ...
+## Acknowledgments
+
+- Thanks to [Microverse](www.microverse.org) for the opportunity.
+- Thanks to [The Odin Project](https://www.theodinproject.com/) for the guidance.
+
+## 📝 License
+
+This project is MIT licensed.
