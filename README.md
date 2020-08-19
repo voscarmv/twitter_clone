@@ -2,6 +2,8 @@
 
 > Solution to the [Twitter Clone Tutorial](https://www.theodinproject.com/courses/ruby-on-rails/lessons/authentication) from [the Odin Project](https://www.theodinproject.com/)
 
+![image](https://user-images.githubusercontent.com/2739245/90669880-f32a9200-e217-11ea-86a9-82e08dae1821.png)
+
 ### Prerequisites
 
 Follow the installation instructions [for Ruby](https://www.theodinproject.com/courses/ruby-programming/lessons/installing-ruby-ruby-programming) and [Rails](https://www.theodinproject.com/courses/ruby-on-rails/lessons/your-first-rails-application-ruby-on-rails) from The Odin Project.
